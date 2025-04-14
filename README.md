@@ -1,4 +1,8 @@
-Assembly Language Simulator (C++)
+# 🤖 Assembly Language Interpreter
+
+![Language](https://img.shields.io/badge/Language-C++-blue)
+![Project](https://img.shields.io/badge/Project-Assembly_Interpreter-red)
+
 This project is a basic Assembly Language Instruction Simulator implemented in C++.
 It reads a list of instructions from a file (instructions.asm), simulates them, manages registers, memory, and flags, and writes the final state into an output file (output.txt).
 
